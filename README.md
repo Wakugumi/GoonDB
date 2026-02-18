@@ -64,5 +64,5 @@ EDGE <key>
 ```
 Remove a value:
 ```
-UNGOON <key>
+BUST <key>
 ```
