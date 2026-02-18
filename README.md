@@ -38,12 +38,12 @@ GoonDB is **not** intended to:
 ## Architecture Overview
 
 - Core storage: hash table (key → value)
-- Single-node design
+- WAL mechanism for recovery
 - Minimal abstractions
 - No persistence (for now)
 - No clustering (for now)
 
-> The goal is clarity over completeness.
+Right now we still use WAL for source of truth
 
 ---
 
@@ -66,3 +66,7 @@ Remove a value:
 ```
 BUST <key>
 ```
+
+
+# Contributing
+Hop on now twin and start gooning (contributing) together twin
