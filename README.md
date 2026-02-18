@@ -1,9 +1,7 @@
 
 # GoonDB
 
-> A Redis-like in-memory key–value database, powered by Rust and questionable naming decisions.
-
-Hey twin, do you like Gooning? Sure am I like gooning. That is why I wrote this cutting-EDGE database for you to goon.
+Hey twin, do you like gooning? Sure do I like gooning. That is why I wrote this cutting-EDGE database for you to goon.
 **GoonDB** is a lightweight key–value hash table database written in **Rust**.  
 It is conceptually similar to Redis, but with goonology in mind to make your productivity even more productive.
 
@@ -19,7 +17,6 @@ This project exists primarily for **learning, experimentation, and fun**.
 - ⚡ Fast hash-table based access
 - 🦀 Written in Rust
 - 🧩 Simple server–client model
-
 
 ---
 
